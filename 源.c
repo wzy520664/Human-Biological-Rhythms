@@ -1,9 +1,10 @@
 #include<stdio.h>
-void Menu();//Ö÷²Ëµ¥
-void input();//ÊäÈëÉúÈÕ£¬²â¶¨Ê±¼ä
-void calculate();//Í¨¹ıÉúÈÕ²â¶¨Ê±¼ä¼ÆËãÖÜÆÚ
-void put();//Êä³ö¼ÆËã½á¹û
-int main() {
+void Menu();//ä¸»èœå•
+void input();//è¾“å…¥ç”Ÿæ—¥ï¼Œæµ‹å®šæ—¶é—´
+void calculate();//é€šè¿‡ç”Ÿæ—¥æµ‹å®šæ—¶é—´è®¡ç®—å‘¨æœŸ
+void put();//è¾“å‡ºè®¡ç®—ç»“æœ
+int main()
+{
 	Meun();
 	input();
 	calculate();
